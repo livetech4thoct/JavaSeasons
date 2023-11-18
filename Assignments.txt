@@ -1,0 +1,15 @@
+riyazsirnotes@gmail.com
+
+Java Assignments 
+
+Assignment 1: 
+
+use methods concepts to calculate 
+Simple Interest
+
+SI = P*T*R/100;
+
+P principal amount
+T time
+R rate of interest 
+
