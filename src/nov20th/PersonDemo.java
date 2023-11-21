@@ -10,6 +10,7 @@ public class PersonDemo {
 		System.out.println(p1.name);
 		System.out.println(p1.age);
 		System.out.println(p1.phone);
+		p1.greet();
 		
 		p1.name="Sivamani";
 		p1.age=30;
@@ -18,12 +19,15 @@ public class PersonDemo {
 		System.out.println(p1.name);
 		System.out.println(p1.age);
 		System.out.println(p1.phone);
+		p1.greet();
+		Person.bye();
 		
 		Person p2=new Person();
 		
 		System.out.println(p2.name);
 		System.out.println(p2.age);
 		System.out.println(p2.phone);
+		p2.greet();
 		
 		p2.name="DJ Tillu";
 		p2.age=25;
@@ -32,6 +36,8 @@ public class PersonDemo {
 		System.out.println(p2.name);
 		System.out.println(p2.age);
 		System.out.println(p2.phone);
+		p2.greet();
+		Person.bye();
 
 	}
 
