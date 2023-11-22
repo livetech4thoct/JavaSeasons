@@ -13,3 +13,15 @@ P principal amount
 T time
 R rate of interest 
 
+Assignment 2: 
+
+use Polymorphism (method Overloading) to set your birthday 
+
+setBirthDay(int date)  e.g 22 
+setBirthDay(int date,String mon)   22-nov 
+setBirthDay(int date,String mon,int year)   22-nov-2000
+
+
+
+
+
