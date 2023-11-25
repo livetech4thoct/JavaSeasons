@@ -14,6 +14,11 @@ public class InheritDemo2 {
 		//obj1.diff();
 		//obj1.prod();
 		obj1.quot();
+		
+		Sum obj2=new Sum();
+		obj2.setX(10);
+		obj2.setY(20);
+		obj2.add();
 	}
 
 }
